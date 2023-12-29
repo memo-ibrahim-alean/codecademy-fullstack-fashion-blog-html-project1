@@ -20,7 +20,7 @@ To explore the Fashion Blog project locally and reinforce your HTML skills, foll
 2. Open the index.html file in your browser.
 
 ## Usage Examples:
-Visit the live demo at [Fashion Blog Demo](https://your-username.github.io/fashion-blog).
+Visit the live demo at [Fashion Blog Demo](https://codecademy-fullstack-fashion-blog-html-project1.vercel.app/).
 
 ## Course Information:
 This project is part of the Full-Stack Engineer Path on Codecademy, specifically in the Web Development Foundations course. It's aimed at building fluency in HTML Fundamentals and provides a hands-on application of HTML structure within the context of creating a stylish Fashion Blog.
